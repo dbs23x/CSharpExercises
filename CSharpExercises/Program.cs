@@ -1,7 +1,13 @@
 ﻿using CSharpExercises.Basics;
 
 Console.WriteLine(@"Menu:
-1 - 01-AddTwoNumbers.cs
+01-AddTwoNumbers
+02-CelsiusToFahrenheit
+03-ElementaryOperations
+04-IsResultTheSame
+05-ModuloOperations
+06-TheCubeOf
+07-SwapTwoNumbers
 ");
 
 Console.WriteLine("Select: ");
